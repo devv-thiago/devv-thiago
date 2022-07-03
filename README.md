@@ -1,6 +1,6 @@
 ## Olá eu me chamo Thiago Lucas Fofano
 
-Tenho interesse na área de Ciência de Dados, atualmente estou estudando para me preparar para o mercado de trabalho
+Tenho interesse na área de Ciência de Dados, atualmente estou estudando para me preparar para o mercado de trabalho, atualmente estou focado em análise de dados <br/> utilizando R, futuramente tenho o objetivo de estudar Python e MySQL para utilização em projetos mais complexos.
 
 ## Contatos
 Fique a vontade para entrar em contato se eu consegui despertar o seu interesse
