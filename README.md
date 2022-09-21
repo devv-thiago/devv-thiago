@@ -15,6 +15,7 @@ Tenho interesse na área de Desenvolvimento de Softwares, atualmente estou estud
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=devv-thiago&show_icons=true&theme=radical)
 
 <br/>
+
 ## Contatos
 Fique a vontade para entrar em contato se eu consegui despertar o seu interesse
 
