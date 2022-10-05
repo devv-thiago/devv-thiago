@@ -4,11 +4,12 @@ Tenho interesse na área de Desenvolvimento de Softwares, atualmente estou estud
 
 ## Tecnologias Estudadas
 <div style = "display: inline_block">
-    <img align = "center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align = "center" alt = "HTML" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img height="45px" align = "center" alt = "CSS" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    <img height="45px" align = "center" alt = "Python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img height="45px" align = "center" alt = "HTML" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img height="45px" align = "center" alt = "CSS" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img height="45px" align = "center" alt = "Dart" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align = "center" alt = "MySQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img height="45px" align = "center" alt = "Git" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img height="45px" align = "center" alt = "MySQL" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 ## Status GitHub
