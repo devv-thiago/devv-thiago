@@ -24,3 +24,9 @@ Fique a vontade para entrar em contato se eu consegui despertar o seu interesse
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lucas-fofano-b78528202/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-thiago)](https://github.com/devv-thiago/github-readme-stats)
+
+<div>
+<a href="https://github.com/devv-thiago">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devv-thiago"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devv-thiago&show_icons=true&theme=radical>
+</div>
