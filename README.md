@@ -25,8 +25,4 @@ Fique a vontade para entrar em contato se eu consegui despertar o seu interesse
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-thiago)](https://github.com/devv-thiago/github-readme-stats)
 
-<div>
-<a href="https://github.com/devv-thiago">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devv-thiago"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devv-thiago&show_icons=true&theme=radical>
-</div>
+
