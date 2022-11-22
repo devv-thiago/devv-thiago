@@ -1,6 +1,6 @@
 ## Olá eu me chamo Thiago Lucas Fofano
 
-Tenho interesse na área de Desenvolvimento de Softwares, atualmente estou estudando alguns tópicos para me preparar para o mercado de trabalho como Lógica de Programação, Git, Gestão de Projetos, Python, Dart, SQL.
+Tenho interesse na área de Desenvolvimento Mobile, atualmente estou estudando alguns tópicos para me preparar para o mercado de trabalho como Lógica de Programação, Git, Gestão de Projetos, Python, Dart, Flutter, SQL.
 
 ## Tecnologias Estudadas
 <div style = "display: inline_block">
@@ -8,6 +8,7 @@ Tenho interesse na área de Desenvolvimento de Softwares, atualmente estou estud
     <img height="45px" align = "center" alt = "Dart" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img height="45px" align = "center" alt = "Git" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img height="45px" align = "center" alt = "MySQL" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img height="45px" align = "center" alt = "Flutter" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
 
 ## Status GitHub
