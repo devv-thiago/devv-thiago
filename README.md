@@ -1,31 +1,19 @@
-## Olá eu me chamo Thiago Lucas Fofano
-
-Tenho interesse na área de Desenvolvimento Mobile, atualmente estou estudando alguns tópicos para me preparar para o mercado de trabalho como Lógica de Programação, Git, Gestão de Projetos, Python, Dart, Flutter, SQL.
-
-## Tecnologias Estudadas
-<div style = "display: inline_block">
-    <img height="45px" align = "center" alt = "Python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img height="45px" align = "center" alt = "Dart" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img height="45px" align = "center" alt = "Git" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img height="45px" align = "center" alt = "MySQL" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img height="45px" align = "center" alt = "Flutter" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-</div>
-
-## Status GitHub
-<div>
-<a href="https://github.com/devv-thiago">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devv-thiago&layout=compact&langs_count=7&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devv-thiago&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+# 💫 Sobre Mim:
+Sou estudante de Engenharia da Computação, tenho como foco trabalhar na área de Desenvolvimento Mobile, atualmente estou estudando as tecnologias, Flutter, Dart, Kotlin, Metodologias ágeis, Python e SQL
 
 
-<br/>
+## 🌐 Social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-lucas-fofano-b78528202/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Tfofano) 
 
-## Contatos
-Fique a vontade para entrar em contato se eu consegui despertar o seu interesse
+# 💻 Tecnologias:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/MZCQB3NDX7NJF1)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lucas-fofano-b78528202/)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devv-thiago&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devv-thiago&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-thiago&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
