@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Sou estudante de Engenharia da Computação, tenho como foco trabalhar na área de Desenvolvimento Mobile, atualmente estou estudando as tecnologias, Flutter, Dart, Kotlin, Metodologias ágeis, Python e SQL
+Sou estudante de Análise e Desenvolvimento de Sistemas , tenho como foco trabalhar na área de Desenvolvimento Mobile, atualmente estou estudando as tecnologias, Flutter, Dart, Kotlin, Metodologias ágeis, Python e SQL
 
 
 ## 🌐 Social:
