@@ -1,7 +1,7 @@
 
 # Desenvolvedor Mobile
 
-Sou estudante de Análise e Desenvolvimento de Sistemas , tenho como foco trabalhar na área de Desenvolvimento Mobile, atualmente estou estudando as tecnologias, Flutter, Dart, Kotlin, Java, Metodologias ágeis, Python e SQL.
+Sou estudante de Análise e Desenvolvimento de Sistemas , tenho como foco trabalhar na área de Desenvolvimento Mobile, atualmente estou estudando as tecnologias, Flutter, Dart, Kotlin, C#, Metodologias ágeis e SQL.
 
 ## 🌐 Social:
 
@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas , tenho como foco trabal
 
 ## Tecnologias
 
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
 
