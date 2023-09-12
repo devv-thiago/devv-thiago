@@ -1,5 +1,5 @@
 
-# Desenvolvedor Mobile
+# Desenvolvedor Mobile | Analista de sistemas
 
 Sou estudante de Análise e Desenvolvimento de Sistemas , tenho como foco trabalhar na área de Desenvolvimento Mobile, atualmente estou estudando as tecnologias, Flutter, Dart, Kotlin, C#, Metodologias ágeis e SQL.
 
