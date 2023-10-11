@@ -4,11 +4,12 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas , tenho como foco trabalhar na área de Desenvolvimento Mobile, atualmente estou estudando as tecnologias, Flutter, Dart, Kotlin, C#, Metodologias ágeis e SQL.
 
 ## 🌐 Social:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagofofano/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tfofano3)
 
 ## Certificações
-![scrum-foundation-professional-certification-sfpc (1)](https://github.com/devv-thiago/devv-thiago/assets/86129372/791fbe3b-4ccd-4e9c-8e36-85bb8c3c663f)
+<img src="https://github.com/devv-thiago/devv-thiago/assets/86129372/c0dc69d7-da7a-4037-a3f5-440b27a02196" width="150" />
+<img src="https://github.com/devv-thiago/devv-thiago/assets/86129372/fce90ef2-ea7b-41ff-9b89-c7dcd7eccb50" width="150" />
+
 
 ## Tecnologias
 
