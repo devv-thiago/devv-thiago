@@ -20,6 +20,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas , tenho como foco trabal
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-thiago)](https://github.com/devv-thiago/github-readme-stats)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
