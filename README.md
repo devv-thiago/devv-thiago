@@ -6,7 +6,7 @@ Atualmente, concentro meus estudos e projetos no desenvolvimento mobile, utiliza
 
 ## 🚀 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,dotnet,typescript,angular,html,css,sqlite,firebase,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,dotnet,typescript,angular,html,css,go,sqlite,firebase,git,)](https://skillicons.dev)
 
 ## 💼 Experiência em:
 
