@@ -9,7 +9,7 @@ Currently, I am expanding my modern stack expertise by developing applications u
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,dotnet,cs,typescript,angular,go,python,sqlite,firebase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,typescript,angular,go,sqlite,firebase,git)](https://skillicons.dev)
 
 ## 💼 What I do
 
